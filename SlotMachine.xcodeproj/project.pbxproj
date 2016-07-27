@@ -14,6 +14,7 @@
 		88278F6E1D46C37A004F421F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88278F6C1D46C37A004F421F /* Main.storyboard */; };
 		88278F701D46C37A004F421F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88278F6F1D46C37A004F421F /* Assets.xcassets */; };
 		88278F731D46C37A004F421F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88278F711D46C37A004F421F /* LaunchScreen.storyboard */; };
+		8843511A1D4894CB00F2E714 /* SlotBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884351191D4894CB00F2E714 /* SlotBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		88278F6F1D46C37A004F421F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88278F721D46C37A004F421F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88278F741D46C37A004F421F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		884351191D4894CB00F2E714 /* SlotBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SlotBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				88278F681D46C37A004F421F /* AppDelegate.swift */,
 				88278F6A1D46C37A004F421F /* ViewController.swift */,
 				8810A9081D47755100ECF263 /* Slot.swift */,
+				884351191D4894CB00F2E714 /* SlotBrain.swift */,
 				8810A90A1D47772B00ECF263 /* Factory.swift */,
 				88278F6C1D46C37A004F421F /* Main.storyboard */,
 				88278F6F1D46C37A004F421F /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 				88278F6B1D46C37A004F421F /* ViewController.swift in Sources */,
 				8810A9091D47755100ECF263 /* Slot.swift in Sources */,
 				88278F691D46C37A004F421F /* AppDelegate.swift in Sources */,
+				8843511A1D4894CB00F2E714 /* SlotBrain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
